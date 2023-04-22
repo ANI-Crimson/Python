@@ -9,7 +9,7 @@ tupla = ("Bruno", "Jorge", True, 1.70) #Se define con () pero se muestra con [].
 #Conjunto (Set): No se pueden modificar los elementos. Datos desordenados. No se accede por índice. No almacena duplicados.
 conjunto = {"Bruno", "Jorge", True, 1.70}
 
-#Diccionario (Dict): Se accede por texto ingresado y no por índice. (clave:valor,)
+#Diccionario (Dict): Se accede por texto ingresado y no por índice. (key:value,)
 diccionario = {
     'Nombre': "Bruno",
     'Nombre Falso': "Jorge",
